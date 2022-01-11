@@ -1,0 +1,144 @@
+<!-- Configuracion -->
+
+
+
+<!doctype html>
+<html lang="es">
+
+<head>
+
+  <!-- Head -->
+  <!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="invitaciones digitales para eventos">
+<meta name="keywords" content="invitaciones, digitales, tarjetas, boda, invitación, interactivas, casamiento, save the date, agenda la fecha, ideas invitación, tarjetas de 15, tarjetas eventos, wedding, matrimonio, ideas tarjetas, rsvp, modelos de invitacion, página de boda, página web de casamiento">
+
+
+<!-- Listado de css con version dinamica segun modificacion de archivo -->
+<link rel='stylesheet' href='assets/css/bootstrap.min.css?v=1608559266'/><link rel='stylesheet' href='assets/css/jquery.fancybox.min.css?v=1608559267'/><link rel='stylesheet' href='assets/css/styles.css?v=1608560198'/>
+<!-- Font -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;900&display=swap" rel="stylesheet">
+
+
+<!-- Font Awesome -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+
+
+<!-- Title -->
+<title>
+  Error!</title>
+
+</head>
+
+
+
+<body>
+
+
+    <!-- Ceremonia y Fiesta -->
+  <section class="ceremonia-fiesta">
+  <div class="container">
+    <div class="row">
+
+        
+
+      
+
+        <!-- Icono -->
+        <div class="col-md-4 columna">
+      
+          <img src="assets/img/404.jpg" alt="blooper boda agenda la fecha" class="error">
+        
+        </div>
+
+        <!-- Texto -->
+        <div class="col-md-8 columna no-margin-top">
+          <a href="https://www.agendalafecha.com">
+          <img src="assets/img/logo-agenda.svg" alt="logo agenda la fecha" class="icon">
+        </a>
+          <h4>¡Ups! Esta página no existe.</h4>
+          <p>
+            Probá volver a Inicio para seguir navegando :). Si el problema persiste, contactate con nosotros para mejorar tu experiencia con Agendá la Fecha!          </p>
+          <a target="_blank" href="https://www.agendalafecha.com" class="btn">Volver a Inicio</a>
+        </div>
+
+
+      
+    </div>
+  </div>
+</section>
+  <!-- Contacto con Agenda la Fecha -->
+  <!-- Contactos -->
+<section class="contacto">
+  <div class="container">
+    <div class="row">
+
+      <!-- Col 1 -->
+      <div class="col-md-6">
+
+        <h4>¿Querés recibir más información?</h4>
+        <p>¡Contactanos!Trabajamos desde Argentina al mundo.</p>
+        <ul>
+          <li><i class="fas fa-phone-alt"></i> +549 351 2500555 | +549 3543 574097</li>
+          <li><i class="fas fa-envelope"></i> <a href="mailto:agendalafecha@gmail.com">agendalafecha@gmail.com</a> </li>
+        </ul>
+
+
+      </div>
+
+      <!-- Col 2 -->
+      <div class="col-md-6">
+
+        <h4>Seguinos en redes</h4>
+        <p>Encontranos en las redes para seguir todas nuestras novedades.</p>
+        <ul>
+          <li><i class="fab fa-facebook-square"></i> <a target="_blank" href="https://www.facebook.com/agendalafecha/">Agendá La Fecha</a> </li>
+          <li><i class="fab fa-instagram"></i> <a target="_blank" href="https://www.instagram.com/agendalafecha/">agendalafecha</a> </li>
+        </ul>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+  <!-- Footer -->
+  <section class="menu-footer">
+
+  <ul class="d-flex flex-column flex-md-row justify-content-center align-items-center">
+
+    <li> <a href="https://agendalafecha.com/">Volver al inicio</a> </li>
+
+  </ul>
+
+</section>
+
+
+<section class="footer">
+
+  <div class="containter">
+    <p>Invitaciones Digitales <a target="_blank" href="https://agendalafecha.com">Agendá la Fecha</a> 2022. Todos los derechos reservados</p>
+  </div>
+
+</section>
+
+
+
+  <!-- Varaibles para JS desde config -->
+  <script>
+    // Cuenta regresiva
+    var fechaCuentaRegresiva = "";
+  </script>
+
+
+  <!-- Scripts Generales-->
+  
+<!-- Listado de js con version dinamica segun modificacion de archivo -->
+<script type='text/javascript' src='assets/js/jquery-3.5.1.slim.min.js?v=1608559275'></script><script type='text/javascript' src='assets/js/parallax.min.js?v=1608559276'></script><script type='text/javascript' src='assets/js/jquery.fancybox.min.js?v=1608559275'></script><script type='text/javascript' src='assets/js/scripts.js?v=1608559277'></script>
+
+
+
+</body>
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'a2plcpnl0946'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script></html>
