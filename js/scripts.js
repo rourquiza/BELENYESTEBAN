@@ -1,11 +1,9 @@
-
-
 // Portada parallax
 $('.parallax-portada').parallax({
-  imageSrc: '../BELENYESTEBAN/img/portada.jpg'
+  imageSrc: '../img/portada.jpg'
 });
 
-// ----------------------
+// -----------------
 
 // Cuenta Regresiva:
 
